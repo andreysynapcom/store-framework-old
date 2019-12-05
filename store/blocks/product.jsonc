@@ -41,7 +41,7 @@
       "product-brand"
     ]
   },
-  "product-images":{
+  "product-brand":{
     "props":{
       "height":30,
       "displayMode": "logo"
