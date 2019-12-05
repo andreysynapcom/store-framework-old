@@ -1,23 +1,14 @@
 {
   "store.home": { 
     "blocks": [
-      "rich-text",
-      "rich-text#2"
+      "rich-text"
     ]
   },
   "rich-text": {
     "props": {
       "text": "*Hello, World!*",
-      "textPosition":"RIGHT",
-      "font": "t-heading-1",
-      "blockClass":"headerClass1"
+      "textPosition":"RIGHT"
 
-    }
-  },
-  "rich-text#2": {
-    "props": {
-      "text": "*Hello, World! Again*",
-      "textPosition":" CENTER"
     }
   }
 }
