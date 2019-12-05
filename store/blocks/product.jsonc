@@ -63,7 +63,7 @@
     "props":{
       "showVariationsLabels":true,
       "showVariationsErrorMessage":true,
-      "InitialSelectionEnum":"empty"
+      "initialSelection":"empty"
     }
   }
   
