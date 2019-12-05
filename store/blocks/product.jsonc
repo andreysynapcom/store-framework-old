@@ -61,9 +61,9 @@
   },
   "sku-selector":{
     "props":{
-      "showVariationsLabels":true,
+      "showValueNameForImageVariation":true,
       "showVariationsErrorMessage":true,
-      "initialSelection":"empty"
+      "InitialSelectionEnum":"empty"
     }
   }
   
